@@ -1,0 +1,18 @@
+C:\Users\Romanov\source\repos\osbb-products\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\Romanov\source\repos\osbb-products\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Romanov\source\repos\osbb-products\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\Romanov\source\repos\osbb-products\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\Romanov\source\repos\osbb-products\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Romanov\source\repos\osbb-products\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+C:\Users\Romanov\source\repos\osbb-products\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Romanov\source\repos\osbb-products\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Romanov\source\repos\osbb-products\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\laska\OneDrive\Рабочий стол\osbb-products\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\laska\OneDrive\Рабочий стол\osbb-products\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\laska\OneDrive\Рабочий стол\osbb-products\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\laska\OneDrive\Рабочий стол\osbb-products\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+C:\Users\laska\OneDrive\Рабочий стол\osbb-products\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\laska\OneDrive\Рабочий стол\osbb-products\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\laska\OneDrive\Рабочий стол\osbb-products\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\laska\OneDrive\Рабочий стол\osbb-products\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\laska\OneDrive\Рабочий стол\osbb-products\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
